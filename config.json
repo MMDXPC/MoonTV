@@ -19,6 +19,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+        "baidu": {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "name": "百度云资源"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
