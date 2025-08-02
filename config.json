@@ -82,8 +82,8 @@
       "name": "量子资源站"
     },
     "iqiyi": {
-        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
-        name: 'iqiyi资源',
+        "api": 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        "name": "iqiyi资源",
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
